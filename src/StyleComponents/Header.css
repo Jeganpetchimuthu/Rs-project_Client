@@ -1,0 +1,46 @@
+.HeaderComponents {
+  position: absolute;
+  top: 0px;
+  left: 7px;
+  width: 98vw;
+  height: 16vh;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+.rsComponents {
+  position: relative;
+  top: -19px;
+  font-weight: 5px;
+  font-size: 30px;
+  color: blue;
+  width: 218px;
+  height: 94px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ccc;
+}
+.notificationIcon {
+  position: relative;
+  left: 500px;
+  top: -130px;
+  background-color: rgb(184, 179, 179);
+  border-radius: 30px;
+  padding: 5px;
+  color: white;
+}
+.settingsIcon {
+  position: relative;
+  left: 480px;
+  top: -130px;
+  background-color: rgb(184, 179, 179);
+  border-radius: 20px;
+  padding: 5px;
+  color: white;
+}
+.headerImageWrap {
+  position: relative;
+  width: 30px;
+  left: 530px;
+  top: -124px;
+  height: 30px;
+  border-radius: 25px;
+}

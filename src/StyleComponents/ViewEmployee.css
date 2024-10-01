@@ -1,0 +1,190 @@
+.viewEmployeeContainers {
+  position: relative;
+  top: -535px;
+  height: 100vh;
+  width: 80vw;
+  left: 190px;
+}
+.employeeTableWrap {
+  position: relative;
+  border: 1px solid #ccc;
+  width: 1080px;
+  left: 0px;
+}
+.employeeTable {
+  position: relative;
+  width: 300px;
+  height: 10vh;
+  left: 20px;
+  border: 1px solid #ccc;
+}
+.custom-blue-button {
+  background-color: #294ff6;
+  border-color: #007bff;
+  border-radius: 5px;
+  outline: none;
+  color: white;
+  position: relative;
+  width: 190px;
+  height: 50px;
+  left: 500px;
+  top: 10px;
+  font-weight: 400;
+  font-size: 15px;
+}
+.custom-blue-button:hover {
+  outline: none;
+}
+
+.HeaderEmployeeDetails {
+  display: flex;
+  position: relative;
+  left: 0px;
+}
+.viewEmployeeInput {
+  position: relative;
+  height: 40px;
+  border-radius: 5px;
+  left: 490px;
+  top: 10px;
+  outline: none;
+  border: 1px solid gray;
+}
+.ViewsearchIcon {
+  position: relative;
+  top: 22px;
+  width: 20px;
+  height: 20px;
+  left: 320px;
+  color: gray;
+}
+.employeeHeadName {
+  position: relative;
+  left: 100px;
+  top: -10px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+/* .fw-normal {
+  display: flex;
+  gap: 40px;
+} */
+
+.th4 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -100px;
+}
+.th5 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -100px;
+}
+.th6 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -90px;
+}
+.th7 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -70px;
+}
+.th8 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -70px;
+}
+.th9 {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: -40px;
+}
+.th1 {
+  position: relative;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.th3 {
+  position: relative;
+  left: -100px;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.employeetrContainer {
+  position: relative;
+  left: -50px;
+  border: 1px solid #ccc;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+.imageContainers {
+  width: 70px;
+  height: 70px;
+  border-radius: 40px;
+  position: relative;
+  left: -100px;
+}
+.employeeNameContainer {
+  position: relative;
+  left: 100px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmployeeIdContainer {
+  position: relative;
+  left: -40px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmpoyeeDepartmentsContainer {
+  position: relative;
+  left: -40px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmployeeDesignation {
+  position: relative;
+  left: -40px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmployeeProject {
+  position: relative;
+  left: -30px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.buttonContainer {
+  position: relative;
+  left: 50px;
+  top: 20px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmployeeStatus {
+  position: relative;
+  left: 30px;
+
+  font-size: 20px;
+  font-weight: 300;
+}
+.EmployeeType {
+  position: relative;
+  left: 10px;
+
+  font-size: 20px;
+  font-weight: 300;
+}

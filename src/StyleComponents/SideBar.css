@@ -1,0 +1,27 @@
+.SideBarContainers {
+  position: absolute;
+  width: 250px;
+  height: 100vh;
+  position: relative;
+  left: -65px;
+  top: 57px;
+  border: 1px solid #ccc;
+}
+.SideBarDashboard {
+  font-size: 15px;
+  font-weight: 700;
+  font-family: sans-serif;
+  transition: transform 1s ease, color 1s ease;
+}
+.SideBarDashboard:hover {
+  background-color: skyblue;
+  padding: 4px;
+  border-radius: 10px;
+  transform: scale(1);
+}
+.SideBarContainers i {
+  font-size: 25px;
+}
+.EmployeeLink {
+  text-decoration: none;
+}

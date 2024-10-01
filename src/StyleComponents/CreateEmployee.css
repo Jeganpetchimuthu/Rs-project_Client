@@ -1,0 +1,63 @@
+.employee-form {
+  position: relative;
+  top: -525px;
+  height: 100vh;
+  width: 80vw;
+  left: 190px;
+  background-color: white;
+}
+.AddNewEmployeTitle {
+  position: relative;
+  left: -260px;
+  top: -560px;
+  font-size: 35px;
+}
+.PersonalInformationTitle {
+  position: relative;
+  left: -430px;
+  top: -50px;
+  color: rgb(18, 121, 238);
+  text-decoration: underline;
+}
+.empoyeeContaindrs {
+  position: relative;
+  left: -400px;
+  top: -50px;
+}
+.employeeInputContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.form-group {
+  flex-basis: 500px;
+}
+
+.employeeInput {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.employee-form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.employee-form button:hover {
+  background-color: #0056b3;
+}
+.employeeLable {
+  position: relative;
+  margin-left: -390px;
+}
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 4px;
+}
